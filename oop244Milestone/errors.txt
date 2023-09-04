@@ -1,0 +1,27 @@
+AidMan.cpp:24:23: error: no ‘void sdds::AidMan::save()’ member function declared in class ‘sdds::AidMan’
+     void AidMan::save()
+                       ^
+AidMan.cpp: In member function ‘void sdds::AidMan::run()’:
+AidMan.cpp:50:26: error: ‘list’ was not declared in this scope
+                 list("as");
+                          ^
+AidMan.cpp:72:22: error: ‘load’ was not declared in this scope
+                 load();
+                      ^
+AidMan.cpp:74:25: error: ‘m_nop’ was not declared in this scope
+                 cout << m_nop << " records loaded!\n\n";
+                         ^
+AidMan.cpp: In destructor ‘sdds::AidMan::~AidMan()’:
+AidMan.cpp:113:29: error: ‘m_nop’ was not declared in this scope
+         for (int i = 0; i < m_nop; i++)
+                             ^
+AidMan.cpp:115:20: error: ‘m_pro’ was not declared in this scope
+             delete m_pro[i];
+                    ^
+AidMan.cpp: At global scope:
+AidMan.cpp:119:23: error: no ‘bool sdds::AidMan::load()’ member function declared in class ‘sdds::AidMan’
+     bool AidMan::load()
+                       ^
+AidMan.cpp:213:42: error: no ‘int sdds::AidMan::list(const char*)’ member function declared in class ‘sdds::AidMan’
+     int AidMan::list(const char* sub_desc)
+                                          ^
