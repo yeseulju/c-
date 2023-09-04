@@ -1,0 +1,20 @@
+
+
+/*
+OOP345 SUMMER2023
+student name : yeseul ju
+student id : yju9@myseneca.ca
+student number : 154673198
+course : NRA
+*/
+
+This project has been an incredibly enjoyable experience. 
+I have learned a great deal about algorithms and data structures, especially the clever use of the Workstation model as a linked list and employing the deque model as both a stack and a queue.
+By leveraging various STL library functions, I could significantly save time and streamline my work, making the project more efficient and effective.
+Participating in this project provided me with an excellent opportunity to review and apply what I learned from previous courses. 
+It has boosted my confidence in tackling future projects with more assurance.
+Collaborating with my team members, sharing ideas, and working together to solve problems has been a valuable learning process.
+The experiences gained during this project are truly cherished, and I look forward to accumulating more of such enriching experiences in the future.
+The knowledge and skills acquired from this project will undoubtedly prove beneficial in facing future challenges.
+I am committed to continually learning and improving my abilities, striving for even better outcomes in future projects.
+I am excited about the possibilities ahead and eager to embrace new opportunities for growth and development.
